@@ -9,12 +9,12 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 744.09448819 1052.3622047"
+   width="101.3894mm"
+   height="72.084244mm"
+   viewBox="0 0 359.25379 255.41661"
    id="svg25534"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.91+devel r13901"
    sodipodi:docname="furniture-white-glove.svg">
   <defs
      id="defs25536">
@@ -147,16 +147,20 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="-185"
-     inkscape:cy="497.14286"
+     inkscape:cx="-79.588446"
+     inkscape:cy="-730.44"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="2560"
-     inkscape:window-height="1403"
-     inkscape:window-x="2560"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1" />
+     inkscape:window-width="1920"
+     inkscape:window-height="996"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <metadata
      id="metadata25539">
     <rdf:RDF>
@@ -172,7 +176,8 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(665.34119,683.91755)">
     <g
        transform="matrix(0.9375,0,0,0.9375,-763.73525,-1364.1269)"
        style="display:inline"
